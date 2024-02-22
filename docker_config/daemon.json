@@ -1,1 +1,4 @@
-hhh
+{
+  "data-root": "/image",
+  "exec-opts": ["native.cgroupdriver=systemd"]
+}
